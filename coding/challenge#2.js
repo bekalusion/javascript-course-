@@ -1,4 +1,4 @@
-
+'use strict'
 
 const teamA = 'dolphins'
 const teamB = 'koalas'
